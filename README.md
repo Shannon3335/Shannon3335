@@ -1,7 +1,7 @@
 - Shannon Fernandes
-- 3rd year student at Atlantic Technological University
+- Final year student at Atlantic Technological University
 - Currently learning Software and Electronic Engineering 
-- 
+- Follow to see how many commits I can get in this final year!
 - 
 
 <!---
